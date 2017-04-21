@@ -8,11 +8,11 @@ My first github repository
 
 
 
-|      |      |      |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| Zelle 1/1 | Zelle 1/2 | Zelle 1/3 |
+| --------- | --------- | --------- |
+| Text      | Text      | Text      |
+|           |           |           |
+|           |           |           |
 
 
 
@@ -25,4 +25,3 @@ float amplify(float d, float scale, float offset)
     return d;
 }
 ```
-
